@@ -7,113 +7,115 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <p align="center">
+  <p align="center" style="color: #c9d1d9; font-size: 16px; max-width: 800px; margin: 20px auto;">
     Desenvolvedor Full-Stack apaixonado por tecnologia e inovação, buscando oportunidades para aplicar e expandir minhas habilidades em desenvolvimento de software, contribuindo para projetos desafiadores e impactantes.
   </p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniszf&bg_color=0d1117&color=8A2BE2&line=9645F4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-</div>
-
-<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniszf&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Félix github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniszf&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <h2>🎯 Experiência Profissional</h2>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=viniszf&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  </p>
 </div>
 
-javascript
-const profile = {
-    nome: "Vinícius Félix",
-    localização: "Quixadá, CE, Brasil",
-    experiência: {
-        atual: {
-            cargo: "Scrum Master",
-            empresa: "Space Questions",
-            período: "Jan 2023 - Dez 2024",
-            destaques: [
-                "Coordenação de plataforma de estudos",
-                "Liderança de equipe multidisciplinar",
-                "Desenvolvimento Full-Stack",
-                "Arquitetura de sistemas"
-            ]
-        },
-        anterior: {
-            cargo: "Estagiário em Ciência de Dados",
-            empresa: "EMBRAPA",
-            período: "Ago 2024 - Dez 2024",
-            conquistas: [
-                "Automação de processos",
-                "Desenvolvimento de aplicativos",
-                "Melhoria de 130% na eficiência"
-            ]
-        }
-    },
-    formação: {
-        técnico: {
-            instituição: "EEEP Flávio Gomes Granjeiro",
-            curso: "Técnico em Informática",
-            período: "2022-2024"
-        },
-        graduação: {
-            instituição: "Universidade Federal do Ceará",
-            curso: "Bacharelado",
-            período: "2025-2029"
-        }
-    }
-};
+<div align="center">
+  <h2>👨‍💻 Experiência Profissional</h2>
+</div>
 
+<div style="background-color: #0d1117; padding: 20px; border-radius: 6px; margin: 20px 0;">
+
+### Space Questions — Scrum Master
+**Janeiro 2023 - Dezembro 2024**
+- Coordenação na criação de uma plataforma de estudos, liderando equipe multidisciplinar
+- Desenvolvimento da arquitetura do sistema utilizando HTML, CSS, JavaScript, Node.js e PHP
+- Garantia de escalabilidade e responsividade do sistema
+- Alinhamento de requisitos com stakeholders
+- Manutenção de comunicação efetiva entre equipes
+
+### EMBRAPA, CE — Estagiário em Ciência de Dados
+**Agosto 2024 - Dezembro 2024**
+- Desenvolvimento de soluções para automação de processos utilizando Python, Google AppSheet e Node.js
+- Implementação de automações com melhoria de 130% na eficiência dos sistemas internos
+- Colaboração com equipes técnicas em soluções inovadoras
+- Atendimento às demandas de pesquisa e inovação
+
+</div>
 
 <div align="center">
-  <h2>💻 Competências Técnicas</h2>
+  <h2>🎓 Formação Acadêmica</h2>
+</div>
+
+<div style="background-color: #0d1117; padding: 20px; border-radius: 6px; margin: 20px 0;">
+
+### EEEP FLÁVIO GOMES GRANJEIRO, CE
+**Técnico em Informática | Janeiro 2022 - Dezembro 2024**
+- Formação técnica em desenvolvimento de software
+- Projetos práticos em programação
+- Fundamentos de redes e sistemas
+
+### Universidade Federal do Ceará, CE
+**Bacharelado | Fevereiro 2025 - Dezembro 2029**
+- Curso superior em andamento
+- Foco em tecnologias emergentes
+- Desenvolvimento de projetos acadêmicos
+
+</div>
+
+<div align="center">
+  <h2>🛠 Habilidades Técnicas</h2>
 </div>
 
 <details open>
-<summary><b>🔨 Linguagens de Programação</b></summary>
+<summary><b>💻 Linguagens de Programação</b></summary>
 <br>
 
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=java&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat-square&logo=c-sharp&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=flat-square&logo=vue.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <details open>
 <summary><b>⚙ Backend & Banco de Dados</b></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=flat-square&logo=microsoft-sql-server&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <details open>
 <summary><b>🛠 Ferramentas & Plataformas</b></summary>
 <br>
 
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon-aws&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=flat-square&logo=power-bi&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![AppSheet](https://img.shields.io/badge/-AppSheet-0D1117?style=flat-square&logo=google&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![AppSheet](https://img.shields.io/badge/-AppSheet-0D1117?style=for-the-badge&logo=google&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <div align="center">
@@ -123,53 +125,65 @@ const profile = {
 <div align="center">
   <table>
     <tr>
-      <td>
-        <a href="https://spacequestion.io/">
+      <td align="center">
+        <a href="https://spacequestion.io/" target="_blank">
           <img src="https://img.shields.io/badge/-Space%20Questions-0D1117?style=for-the-badge&logo=web&logoColor=8A2BE2"/>
+          <br>
+          <p>Plataforma Educacional Inovadora</p>
+          <p>HTML • CSS • JavaScript • Node.js • PHP</p>
         </a>
-        <p>Plataforma Educacional</p>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h2>🌐 Contato</h2>
-  <a href="https://www.linkedin.com/in/viniszf/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
-  </a>
-  <a href="mailto:viniciusfelixnascimento5@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
-  </a>
-  <a href="https://github.com/viniszf">
-    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
-  </a>
+  <h2>💡 Competências</h2>
 </div>
 
-<div align="center">
-  <h2>📊 Competências</h2>
-  
-javascript
-const skills = {
-    softSkills: [
-        "Organização",
-        "Proatividade",
-        "Observador",
-        "Aprendizado Rápido",
-        "Trabalho em Equipe",
-        "Liderança",
-        "Comunicação"
-    ],
-    idiomas: {
-        português: "Nativo",
-        inglês: "Intermediário Avançado (C1)"
-    }
-};
+<div style="background-color: #0d1117; padding: 20px; border-radius: 6px; margin: 20px 0;">
+
+### Soft Skills
+- Organização
+- Proatividade
+- Observador
+- Aprendizado Rápido
+- Trabalho em Equipe
+- Liderança
+- Comunicação Efetiva
+
+### Idiomas
+- Português (Nativo)
+- Inglês (Intermediário Avançado - C1)
 
 </div>
 
 <div align="center">
-  <h2>👀 Visualizações do Perfil</h2>
+  <h2>📱 Contatos</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/viniszf/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+    </a>
+    <a href="mailto:viniciusfelixnascimento5@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+    </a>
+    <a href="https://github.com/viniszf">
+      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+    </a>
+  </p>
+  <p align="center">
+    📍 Quixadá, Ceará, Brasil<br>
+    📞 +55 85 98237-0576
+  </p>
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniszf&bg_color=0d1117&color=8A2BE2&line=9645F4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+</div>
+
+<div align="center">
+  <h2>👁 Visualizações do Perfil</h2>
   <p align="center">
     <img src="https://profile-counter.glitch.me/{viniszf}/count.svg" alt="Contador de Visualizações" />
   </p>
