@@ -63,7 +63,8 @@
 - Fundamentos de redes e sistemas
 
 ### Universidade Federal do Ceará, CE
-**Bacharelado | Fevereiro 2025 - Dezembro 2029**
+**Bacharelado em Engenharia de Software
+ | Fevereiro 2025 - Dezembro 2029**
 - Curso superior em andamento
 - Foco em tecnologias emergentes
 - Desenvolvimento de projetos acadêmicos
