@@ -3,11 +3,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=console.log(%22Hello%2C+World!%22);print(%22I'm+Vinícius+Félix%22);System.out.println(%22Full-Stack+Developer%22);echo+%22Welcome+to+my+Profile!%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Vinícius+Félix;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia+e+Inovação;Bem-vindo+ao+meu+Perfil!" alt="Typing SVG" />
   </a>
 </div>
 
-<br>
+<div align="center">
+  <p align="center">
+    Desenvolvedor Full-Stack apaixonado por tecnologia e inovação, buscando oportunidades para aplicar e expandir minhas habilidades em desenvolvimento de software, contribuindo para projetos desafiadores e impactantes.
+  </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniszf&bg_color=0d1117&color=8A2BE2&line=9645F4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
@@ -19,64 +23,63 @@
 </div>
 
 <div align="center">
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=viniszf&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🎯 Professional Profile</h2>
+  <h2>🎯 Experiência Profissional</h2>
 </div>
 
 javascript
-const viniciusFelix = {
-    title: "Full-Stack Developer",
-    location: "Quixadá, CE, Brazil",
-    education: {
-        university: "Federal University of Ceará",
-        course: "Information Technology",
-        period: "2025-2029"
-    },
-    experience: {
-        current: {
-            role: "Scrum Master",
-            company: "Space Questions",
-            period: "2023-2024",
-            highlights: [
-                "Team Leadership",
-                "Full-Stack Development",
-                "Agile Methodologies"
+const profile = {
+    nome: "Vinícius Félix",
+    localização: "Quixadá, CE, Brasil",
+    experiência: {
+        atual: {
+            cargo: "Scrum Master",
+            empresa: "Space Questions",
+            período: "Jan 2023 - Dez 2024",
+            destaques: [
+                "Coordenação de plataforma de estudos",
+                "Liderança de equipe multidisciplinar",
+                "Desenvolvimento Full-Stack",
+                "Arquitetura de sistemas"
             ]
         },
-        previous: {
-            role: "Data Science Intern",
-            company: "EMBRAPA",
-            period: "2024",
-            achievements: [
-                "Process Automation",
-                "System Integration",
-                "130% Efficiency Improvement"
+        anterior: {
+            cargo: "Estagiário em Ciência de Dados",
+            empresa: "EMBRAPA",
+            período: "Ago 2024 - Dez 2024",
+            conquistas: [
+                "Automação de processos",
+                "Desenvolvimento de aplicativos",
+                "Melhoria de 130% na eficiência"
             ]
+        }
+    },
+    formação: {
+        técnico: {
+            instituição: "EEEP Flávio Gomes Granjeiro",
+            curso: "Técnico em Informática",
+            período: "2022-2024"
+        },
+        graduação: {
+            instituição: "Universidade Federal do Ceará",
+            curso: "Bacharelado",
+            período: "2025-2029"
         }
     }
 };
 
 
 <div align="center">
-  <h2>💻 Technical Expertise</h2>
+  <h2>💻 Competências Técnicas</h2>
 </div>
 
 <details open>
-<summary><b>🔨 Languages</b></summary>
+<summary><b>🔨 Linguagens de Programação</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=java&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat-square&logo=c-sharp&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
@@ -87,14 +90,14 @@ const viniciusFelix = {
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=flat-square&logo=vue.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <details open>
-<summary><b>⚙ Backend & Database</b></summary>
+<summary><b>⚙ Backend & Banco de Dados</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
@@ -103,18 +106,18 @@ const viniciusFelix = {
 </details>
 
 <details open>
-<summary><b>🛠 Tools & Platforms</b></summary>
+<summary><b>🛠 Ferramentas & Plataformas</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon-aws&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=flat-square&logo=power-bi&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![AppSheet](https://img.shields.io/badge/-AppSheet-0D1117?style=flat-square&logo=google&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
 </details>
 
 <div align="center">
-  <h2>🌟 Featured Projects</h2>
+  <h2>🌟 Projetos em Destaque</h2>
 </div>
 
 <div align="center">
@@ -124,14 +127,14 @@ const viniciusFelix = {
         <a href="https://spacequestion.io/">
           <img src="https://img.shields.io/badge/-Space%20Questions-0D1117?style=for-the-badge&logo=web&logoColor=8A2BE2"/>
         </a>
-        <p>Educational Platform</p>
+        <p>Plataforma Educacional</p>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h2>📱 Connect With Me</h2>
+  <h2>🌐 Contato</h2>
   <a href="https://www.linkedin.com/in/viniszf/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
   </a>
@@ -144,21 +147,31 @@ const viniciusFelix = {
 </div>
 
 <div align="center">
-  <h2>📊 Current Status</h2>
+  <h2>📊 Competências</h2>
   
 javascript
-const currentFocus = {
-    learning: ["Cloud Architecture", "Machine Learning", "5G Networks"],
-    projects: ["Educational Platforms", "Data Science Solutions"],
-    interests: ["Innovation", "Technology", "Problem Solving"]
+const skills = {
+    softSkills: [
+        "Organização",
+        "Proatividade",
+        "Observador",
+        "Aprendizado Rápido",
+        "Trabalho em Equipe",
+        "Liderança",
+        "Comunicação"
+    ],
+    idiomas: {
+        português: "Nativo",
+        inglês: "Intermediário Avançado (C1)"
+    }
 };
 
 </div>
 
 <div align="center">
-  <h2>🌐 Profile Views</h2>
+  <h2>👀 Visualizações do Perfil</h2>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/{viniszf}/count.svg" alt="Visitor Count" />
+    <img src="https://profile-counter.glitch.me/{viniszf}/count.svg" alt="Contador de Visualizações" />
   </p>
 </div>
 
