@@ -28,6 +28,21 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniszf&theme=midnight-purple&background=0d1117&hide_border=true"/>
+</div>
+
+<div align="center">
+  <h2>💼 Status</h2>
+  
+  ![Status](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=for-the-badge&logo=rss&logoColor=white)
+</div>
+
+<div align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/viniszf/viniszf?color=8A2BE2&style=for-the-badge">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/viniszf/viniszf?color=8A2BE2&style=for-the-badge">
+</div>
+
+<div align="center">
   <h2>👨‍💻 Experiência Profissional</h2>
 </div>
 
@@ -63,13 +78,31 @@
 - Fundamentos de redes e sistemas
 
 ### Universidade Federal do Ceará, CE
-**Bacharelado em Engenharia de Software
- | Fevereiro 2025 - Dezembro 2029**
+**Bacharelado em Engenharia de Software | Fevereiro 2025 - Dezembro 2029**
 - Curso superior em andamento
 - Foco em tecnologias emergentes
 - Desenvolvimento de projetos acadêmicos
 
 </div>
+
+<details open>
+<summary><b>🏆 Certificações</b></summary>
+<br>
+
+- [Certificação AWS Cloud Practitioner]
+- [Certificação Scrum Master]
+- [Certificações em cursos online relevantes]
+- [Certificações técnicas específicas]
+</details>
+
+<details open>
+<summary><b>📚 Atualmente Estudando</b></summary>
+<br>
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117&logoColor=8A2BE2)&nbsp;
+</details>
 
 <div align="center">
   <h2>🛠 Habilidades Técnicas</h2>
@@ -134,8 +167,48 @@
           <p>HTML • CSS • JavaScript • Node.js • PHP</p>
         </a>
       </td>
+      <!-- Adicione mais projetos aqui -->
+      <td align="center">
+        <a href="[Link do Projeto]" target="_blank">
+          <img src="https://img.shields.io/badge/-[Nome do Projeto]-0D1117?style=for-the-badge&logo=web&logoColor=8A2BE2"/>
+          <br>
+          <p>[Descrição curta do projeto]</p>
+          <p>[Tecnologias utilizadas]</p>
+        </a>
+      </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <h2>✍ Blog & Artigos</h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="[Link do Artigo]" target="_blank">
+          <p>[Título do Artigo]</p>
+          <p>[Breve descrição]</p>
+          <p>[Data de publicação]</p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary><b>🎤 Eventos & Palestras</b></summary>
+<br>
+
+- [Nome do Evento - Data]
+- [Título da Palestra/Workshop]
+- [Hackathons participados]
+- [Conferências relevantes]
+</details>
+
+<div align="center">
+  <h2>⚡ Métricas de Código</h2>
+  <img src="https://metrics.lecoq.io/viniszf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&theme=dark"/>
 </div>
 
 <div align="center">
@@ -160,6 +233,16 @@
 </div>
 
 <div align="center">
+  <h2>🤝 Contribuições</h2>
+  <img src="https://github-contributor-stats.vercel.app/api?username=viniszf&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
+<div align="center">
+  <h2>⏱ Wakatime Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viniszf&theme=midnight-purple&hide_border=true&layout=compact"/>
+</div>
+
+<div align="center">
   <h2>📱 Contatos</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/viniszf/" target="_blank">
@@ -170,6 +253,13 @@
     </a>
     <a href="https://github.com/viniszf">
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+    </a>
+    <!-- Adicione mais redes sociais conforme necessário -->
+    <a href="[Link do Portfolio]">
+      <img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=web&logoColor=8A2BE2"/>
+    </a>
+    <a href="[Link do Medium/Dev.to]">
+      <img src="https://img.shields.io/badge/-Blog-0D1117?style=for-the-badge&logo=medium&logoColor=8A2BE2"/>
     </a>
   </p>
   <p align="center">
@@ -188,6 +278,11 @@
   <p align="center">
     <img src="https://profile-counter.glitch.me/{viniszf}/count.svg" alt="Contador de Visualizações" />
   </p>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/viniszf/viniszf/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
