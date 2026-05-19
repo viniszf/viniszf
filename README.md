@@ -12,8 +12,7 @@
 
 Desenvolvedor full-stack e empreendedor social focado em inovação frugal. Minha atuação concentra-se no desenvolvimento de arquiteturas *offline-first* e soluções otimizadas para ambientes com infraestrutura digital limitada e conexões instáveis. Tenho interesse prático e acadêmico na interseção entre Ciência da Computação, sociologia e desenvolvimento cívico.
 
-🎓 ** Stanford University Class of 2030** | Behring Scholar
-
+🎓 Stanford University Class of 2030
 ---
 
 ### 🚀 Iniciativas e Impacto
