@@ -23,8 +23,8 @@ Desenvolvedor full-stack e empreendedor social focado em inovação frugal. Minh
 
 | Projeto | Papel | Impacto Mensurável | Foco Técnico |
 | :--- | :--- | :--- | :--- |
-| **[Instituto Terra Alien](#)** | Fundador e Diretor | Atendimento a **>20.000 jovens** em 10 países. | Educação Cívica & Acesso Tecnológico |
-| **[Code for Causes](#)** | Fundador | Infraestrutura digital para **>30 ONGs**. | Desenvolvimento Web & Tech Pro-bono |
+| **INSTITUTO TERRA ALIEN** | Fundador e Diretor | Atendimento a **>20.000 jovens** em 10 países. | Educação Cívica & Acesso Tecnológico |
+| **CODE FOR CAUSES** | Fundador | Infraestrutura digital para **>30 ONGs**. | Desenvolvimento Web & Tech Pro-bono |
 | **EMBRAPA** | Estagiário | Automação de >15 fluxos de trabalho. | Python/R Data Analysis |
 
 </details>
@@ -42,10 +42,10 @@ Desenvolvedor full-stack e empreendedor social focado em inovação frugal. Minh
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/SEU-USER-AQUI">
+  <a href="https://github.com/viniszf">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&icon_color=8C1515&title_color=8C1515&text_color=555" alt="Estátisticas do GitHub de Vinícius" height="192px"/>
   </a>
-  <a href="https://github.com/SEU-USER-AQUI">
+  <a href="https://github.com/viniszf">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER-AQUI&layout=compact&theme=nord&hide_border=true&langs_count=6&icon_color=8C1515&title_color=8C1515&text_color=555" alt="Linguagens mais utilizadas por Vinícius" height="192px"/>
   </a>
 </p>
