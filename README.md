@@ -1,47 +1,42 @@
-# ⚡ Olá, eu sou o Vinícius Félix
+# Vinícius Félix
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Stanford+University+'30;Full-Stack+Engineer;Civic+Technologist;Frugal+Innovation+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=24292E&center=true&vCenter=true&width=800&lines=Stanford+University+'30;Full-Stack+Engineer;Civic+Technologist" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 🌍 Sobre Mim
+### Sobre Mim
 
-Sou um engenheiro de software e empreendedor social focado em **inovação frugal**. Minha missão é combater a "latência humana" através do design de arquiteturas *offline-first* e soluções de baixa largura de banda para regiões com infraestrutura digital limitada — construindo sistemas que funcionam perfeitamente mesmo em redes instáveis e "telas trincadas". 🌵 Com orgulho, do Ceará para o mundo.
+Desenvolvedor full-stack e empreendedor social focado em inovação frugal. Minha atuação concentra-se no desenvolvimento de arquiteturas *offline-first* e soluções otimizadas para ambientes com infraestrutura digital limitada e conexões instáveis. Tenho interesse prático e acadêmico na interseção entre Ciência da Computação, políticas públicas e desenvolvimento cívico.
 
-- 🌲 **Atualmente:** Preparando-me para iniciar na **Stanford University (Class of 2030)**, explorando a intersecção entre ciência da computação, sociologia e políticas públicas.
-- 🚀 **Liderando:** 
-  - **[Instituto Terra Alien](#):** Polo educacional impactando +20.000 jovens em 10 países.
-  - **[Code for Causes](#):** ONG que capacita jovens em desenvolvimento web e fornece infraestrutura digital pro-bono para o terceiro setor.
-- ⚙️ **Experiência:** Automação e análise de dados (Python/R) para otimização de fluxos de trabalho.
-- 🖋️ **Fora do código:** Escrevendo thrillers psicológicos com antagonistas complexos e preparando um bom cuscuz.
+- 🎓 **Educação:** Ingressando na **Stanford University (Class of 2030)**.
+- 🚀 **Projetos Principais:** 
+  - **[Instituto Terra Alien](#):** Fundador e diretor de um polo educacional que atende mais de 20.000 jovens em 10 países.
+  - **[Code for Causes](#):** Fundador da organização focada na capacitação de desenvolvedores e na criação de infraestrutura digital pro-bono para o terceiro setor (mais de 30 ONGs atendidas).
+- 💼 **Experiência Técnica:** Automação de processos e análise de dados (Python/R) durante estágio na EMBRAPA.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
-
-*Construindo a ponte entre o impacto social e a excelência técnica.*
+### Tech Stack
 
 <p align="center">
-  <!-- Você pode adicionar ou remover tecnologias alterando os nomes na URL abaixo -->
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,react,nextjs,nodejs,html,css,git,github,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,react,nextjs,nodejs,html,css,git,github,figma,linux&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER-AQUI&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER-AQUI&layout=compact&langs_count=7&theme=default&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"O progresso técnico deve ser guiado por valores humanos e contexto histórico."</i><br><br>
-  📫 <b>Vamos conversar?</b> Me encontre no <a href="LINK_DO_SEU_LINKEDIN">LinkedIn</a> ou via <a href="mailto:SEU_EMAIL">Email</a>.
+  📫 <b>Contato:</b> <a href="LINK_DO_SEU_LINKEDIN">LinkedIn</a> | <a href="mailto:SEU_EMAIL">Email</a>
 </div>
