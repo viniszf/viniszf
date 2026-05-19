@@ -14,9 +14,8 @@
 <br>
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="SEU_PORTFOLIO_AQUI"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:viniciusfelixnascimento@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/viniszf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br>
@@ -127,24 +126,7 @@ Engenheiro de Software com foco na construção de arquiteturas resilientes e so
 
 <br>
 
-<!-- 
-=======================================================================
-  GITHUB SNAKE ANIMATION (Opcional)
-  Para que a animação abaixo funcione, você precisará configurar uma 
-  GitHub Action no seu repositório especial (viniszf/viniszf).
-  Tutorial: https://github.com/Platane/snk
-=======================================================================
--->
-<details>
-<summary><b>📈 Mapa de Contribuição (Snake Activity)</b></summary>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viniszf/viniszf/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
-  <i>Configure a <a href="https://github.com/Platane/snk">GitHub Action Platane/snk</a> para habilitar o gráfico de contribuição animado.</i>
-</div>
-</details>
 
-<br>
 
 ---
 
