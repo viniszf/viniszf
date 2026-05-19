@@ -105,10 +105,9 @@ Engenheiro de Software com foco na construção de arquiteturas resilientes e so
 
 ## 🎓 Formação Acadêmica & Fellowships
 
-- 🌲 **Stanford University** — *Class of 2030* | Behring Scholar
+- 🌲 **Stanford University** — *Class of 2030* 
 - 🌍 **Watson Institute** — *Western Union Global Fellow* (Bolsista integral entre 27 selecionados globais)
-- 💻 **EEEP Flávio Gomes Granjeiro** — *Técnico em Informática* (1º Colocado de 117 alunos)
-
+- 💻 **EEEP Flávio Gomes Granjeiro** — *Técnico em Informática* 
 ---
 
 ## 📊 Analytics & Contribuições
@@ -140,8 +139,7 @@ Engenheiro de Software com foco na construção de arquiteturas resilientes e so
 <summary><b>📈 Mapa de Contribuição (Snake Activity)</b></summary>
 <br>
 <div align="center">
-  <!-- Remova os comentários da linha abaixo após configurar o GitHub Action do SNK -->
-  <!-- <img src="https://raw.githubusercontent.com/viniszf/viniszf/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+  <img src="https://raw.githubusercontent.com/viniszf/viniszf/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
   <i>Configure a <a href="https://github.com/Platane/snk">GitHub Action Platane/snk</a> para habilitar o gráfico de contribuição animado.</i>
 </div>
 </details>
